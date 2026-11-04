@@ -1,2 +1,14 @@
 # J-CRAFT
-J-CRAFT — учебный открытый мир с Blockly и Python. Готовые сборки для macOS и Windows в Releases.
+
+Открытый трёхмерный мир для прогулок, строительства и программирования на блоках и Python. Можно играть одному или подключиться к миру учителя по локальной сети.
+
+**Скачать J-CRAFT 0.17.8 с текстурами REFI**
+
+- [Mac с Apple Silicon (M1 и новее)](https://github.com/user116RUS/J-CRAFT/releases/download/v0.17.8/J-CRAFT-0.17.8-Mac-arm64.zip) — распакуйте ZIP и откройте J-CRAFT.app.
+- [Windows 10/11 x64](https://github.com/user116RUS/J-CRAFT/releases/download/v0.17.8/J-CRAFT-0.17.8-Windows.zip) — извлеките весь архив и откройте J-CRAFT.exe внутри папки J-CRAFT.
+
+Для прогулки выберите «Играть одному». W/A/S/D — ходьба, мышь — обзор, пробел — прыжок. Введите /code в игровом чате, чтобы открыть редактор.
+
+[Все выпуски и контрольные суммы](https://github.com/user116RUS/J-CRAFT/releases)
+
+Игра использует движок Luanti и мир VoxeLibre. Автор набора [REFI Textures](https://content.luanti.org/packages/MysticTempest/refi_textures/) — MysticTempest (CC BY-SA 4.0). Лицензии компонентов включены в архивы. J-CRAFT — самостоятельный проект.
