@@ -2,10 +2,10 @@
 
 Открытый трёхмерный мир для прогулок, строительства и программирования на блоках и Python. Можно играть одному или подключиться к миру учителя по локальной сети.
 
-**Скачать J-CRAFT 0.17.15 — квесты на суше**
+**Скачать J-CRAFT 0.17.16 — устойчивость связи класса**
 
-- [Mac с Apple Silicon (M1 и новее)](https://github.com/user116RUS/J-CRAFT/releases/download/v0.17.15/J-CRAFT-0.17.15-Mac-arm64.zip) — распакуйте ZIP и откройте J-CRAFT.app.
-- [Windows 10/11 x64](https://github.com/user116RUS/J-CRAFT/releases/download/v0.17.15/J-CRAFT-0.17.15-Windows.zip) — извлеките весь архив и откройте J-CRAFT.exe внутри папки J-CRAFT.
+- [Mac с Apple Silicon (M1 и новее)](https://github.com/user116RUS/J-CRAFT/releases/download/v0.17.16/J-CRAFT-0.17.16-Mac-arm64.zip) — распакуйте ZIP и откройте J-CRAFT.app.
+- [Windows 10/11 x64](https://github.com/user116RUS/J-CRAFT/releases/download/v0.17.16/J-CRAFT-0.17.16-Windows.zip) — извлеките весь архив и откройте J-CRAFT.exe внутри папки J-CRAFT.
 
 Квестовые персонажи стоят на суше примерно в 300 блоках друг от друга. После выбора задания открывается Code Builder; личный прогресс сохраняется.
 
